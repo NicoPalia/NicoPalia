@@ -9,6 +9,13 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Nicolas Palia a Full Stack Developer 🚀 from Argentina, I have extensive experience in the design and building of web applications.
 <br />
+
+_Personal_
+
+- 👋 Hi, I’m @NicoPalia
+- 🌱 I’m currently learning ... #Henry🚀
+- 📫 How to reach me ... **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-pal%C3%ADa-1a1554250/)**
+
 <br />
 
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
@@ -21,12 +28,6 @@ Hi, I'm Nicolas Palia a Full Stack Developer 🚀 from Argentina, I have extensi
 </div>  
 
 <br/>  
-
-_Personal_
-
-- 👋 Hi, I’m @NicoPalia
-- 🌱 I’m currently learning ... #Henry🚀
-- 📫 How to reach me ... **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-pal%C3%ADa-1a1554250/)**
 
 
 ## My Skill Set  
