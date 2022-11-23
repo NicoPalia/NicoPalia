@@ -10,10 +10,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning design and building of web applications.
 - 📫 How to reach me ... **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-pal%C3%ADa-1a1554250/)**
 
-<br />
-
+<br/>
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
-
 <br/> 
 
 ## My Skill Set  
