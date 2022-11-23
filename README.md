@@ -15,7 +15,7 @@ Hi, I'm Nicolas Palia a Full Stack Developer 🚀 from Argentina, I have extensi
 
 ### Hello World!  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; heigth: 50px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; heigth: 250px" />
 </div>  
 
 <br/> 
