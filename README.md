@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
+
 _Personal_
+
 - 👋 Hi, I’m @NicoPalia
 - 🚀 Full Stack Web Developer in Progress at Henry
 - 🌱 I’m currently learning design and building of web applications.
