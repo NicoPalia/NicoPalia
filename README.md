@@ -13,7 +13,14 @@ Hi, I'm Nicolas Palia a Full Stack Developer 🚀 from Argentina, I have extensi
 
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
 
-### Donde me puedes encontrar
+////////////
+
+### Hello World!  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+<br/>  
 
 _Personal_
 
@@ -21,30 +28,9 @@ _Personal_
 - 🌱 I’m currently learning ... #Henry🚀
 - 📫 How to reach me ... **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-pal%C3%ADa-1a1554250/)**
 
-////////////
-
-
-
-### Hello World!  
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-  
-
-I'm Nicolas Palia, a full-stack developer 👨‍💻 🚀  
-  
-
-🌱 I’m currently learning en Henry!  🚀  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -81,6 +67,11 @@ I'm Nicolas Palia, a full-stack developer 👨‍💻 🚀
 
 <br/>  
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopalia&layout=compact">
+
+![Nicolas github stats](https://github-readme-stats.vercel.app/api?username=Nicopalia&show_icons=true&hide=[%22issues%22])
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -92,9 +83,3 @@ I'm Nicolas Palia, a full-stack developer 👨‍💻 🚀
 </a>  
 </div>  
   
-
-<br/>  
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopalia&layout=compact">
-
-![Nicolas github stats](https://github-readme-stats.vercel.app/api?username=Nicopalia&show_icons=true&hide=[%22issues%22])
