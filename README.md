@@ -22,6 +22,6 @@ _Personal_
 - 📫 How to reach me ... **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-pal%C3%ADa-1a1554250/)**
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Crismurua&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopalia&layout=compact">
 
-![Cristian's github stats](https://github-readme-stats.vercel.app/api?username=Crismurua&show_icons=true&hide=[%22issues%22])
+![Nicolas github stats](https://github-readme-stats.vercel.app/api?username=Nicopalia&show_icons=true&hide=[%22issues%22])
