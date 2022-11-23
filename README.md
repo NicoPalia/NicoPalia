@@ -1,5 +1,3 @@
-
-
 <!---
 NicoPalia/NicoPalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,9 +17,6 @@ Hi, I'm Nicolas Palia a Full Stack Developer 🚀 from Argentina, I have extensi
 
 _Personal_
 
-- :star::blush: Algo que no uso x1 **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-pal%C3%ADa-1a1554250/)** :v:
-
 - 👋 Hi, I’m @NicoPalia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... #Henry🚀
 - 📫 How to reach me ... **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-pal%C3%ADa-1a1554250/)**
