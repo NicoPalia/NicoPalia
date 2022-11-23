@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
 
-<div align="rigth">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="rigth" style="width: 20%; heigth: 50px;" />
+<div align="left">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 20%; heigth: 50px;" />
 </div>  
 
 <br/> 
