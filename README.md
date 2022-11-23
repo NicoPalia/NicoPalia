@@ -13,11 +13,9 @@ Hi, I'm Nicolas Palia a Full Stack Developer 🚀 from Argentina, I have extensi
 
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
 
-////////////
-
 ### Hello World!  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; heigth: 400px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; heigth: 100px" />
 </div>  
 
 <br/> 
